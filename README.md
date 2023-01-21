@@ -90,7 +90,7 @@ Following plots illustrates the same.
 
 ## Resources
 * [ Vehicle Recall data updated in last 60 days](https://open.canada.ca/data/en/dataset/1991fef6-9dfe-40e2-a0c6-19c60ddf4a02)
-* [Weather data](https://api.weatherbit.io/v2.0/normals?lat=35.5&lon=-75.5&start_day=02-02&end_day=03-01&tp=daily&key=8eb2410b9bf74bb88acf2b1626fe05f5 )
+* [Weather data](https://www.weatherbit.io/api/climate-normals )
 
 #
 
