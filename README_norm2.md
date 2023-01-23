@@ -2,7 +2,7 @@
 
 ---
 
-![image](Resources/recall_png.png)
+![image](Images/recall_png.png)
 
 <h4><p>This database provides an organized way to track recall campaigns, detailing the exact product recalled, the problem initiating it, the quantities impacted, and how to fix it. It stores all this information in an easy-to-access location. The database is configured to enable efficient searching, so that customers and industry professionals can quickly access the recall data they need. With the database search option, it is effortless to access recall information by filtering through product type, manufacturer, and model year, etc. This makes it extremely convenient to find relevant information about the vehicle recall. 
 <p>As a regulating authority, Transport Canada depends on this database to survey the safety of all cars and associated products used in Canada. The public database tracks and publicizes all recall information to inform consumers about any potential safety concerns and hold manufacturers accountable for taking proper action. 
@@ -15,7 +15,7 @@
 ---
 <h4><b>Manufacturers often issue product recalls due to reported defects or safety concerns.</b>
 
-![image](Resources/instances_of_manufacturer_recalls.png)
+![image](Images/instances_of_manufacturer_recalls.png)
 
 Although it’s a car company, Nissan has reported a high frequency of recalls due to tire related issues in comparison to dedicated tire manufacturing companies.
 
@@ -23,7 +23,7 @@ Although it’s a car company, Nissan has reported a high frequency of recalls d
 
 <h4><b>Which tire brand have recently announced recalls of their products?</b>
 
-![Image](Resources/timeline_of_tire_recalls.png)
+![Image](Images/timeline_of_tire_recalls.png)
 
 Data indicates that the brands recently recalled was:
 - Firestone and Bridgestone
