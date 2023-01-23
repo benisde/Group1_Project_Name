@@ -12,7 +12,6 @@
 
 <h2>Tire Recalls: 
 
----
 <h4><b>Manufacturers often issue product recalls due to reported defects or safety concerns.</b>
 
 ![image](Images/instances_of_manufacturer_recalls.png)
