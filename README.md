@@ -60,7 +60,24 @@ There were negligible manufacturer fault recall happened for Toyota vehicle in c
 
 <b>Question: </b> What are the Tire makers with most recent recalls?
 
-<b>Answer</b> NVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNVNV
+<b>Answer</b> Following data analysis indicates that the brands recently recalled was:
+- Firestone and Bridgestone during November 2022
+
+- Alliance and Galaxy around late October 2022
+
+-  Rolling Big Power Tires mid October 2022
+
+-  Antares early September 2022 
+
+- Almost a year gap with the car companies Nissan and BMW recalling their vehicles around early 2021
+
+![A screenshot of the result.](Images/timeline_of_tire_recalls.png)
+
+Manufacturers often issue product recalls due to reported defects or safety concerns
+
+Although it’s a car company, Nissan has reported a high frequency of recalls due to tire related issues in comparison to dedicated tire manufacturing companies.
+
+![A screenshot of the result.](Images/instances_of_manufacturer_recalls.png)
 
 #
 
@@ -83,7 +100,9 @@ Following plots illustrates the same.
 
 <b>Question: </b>Is there a relationship between the vehicle recalls and the temperature of the month?
 
-<b>Answer</b> DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+<b>Answer</b> According to the vehicle recalls vs temperature chart, there is no considerable relationship between the minimum temperature of a month and the total number of recalls of the month. Hence, we conlcude there is no such relationship between the vehicle recalls and the temperature of the month, where there are extreme weather conditions in Canada.
+
+![A screenshot of the result.](Images/recalls_temperature_relation.png)
 
 #
 
