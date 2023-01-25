@@ -114,6 +114,7 @@ Please note, this analysis gives the capability to analyze the performance any v
 
 #
 
+Note: Child seat safety recalls is a possible area which could have been analyzed for the vehicle recalls, if we had additional time in future.
 
 ## Resources
 * [ Vehicle Recall data updated in last 60 days](https://open.canada.ca/data/en/dataset/1991fef6-9dfe-40e2-a0c6-19c60ddf4a02)
